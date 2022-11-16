@@ -3,7 +3,7 @@ const chain = 'goerli'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the MiceFriends NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Mice Friends NFT is a collectionn of 5,000 randomly generated Unique images. This project is created to lift everyones situation upon sold out a percentage will be donated to a selected group. Treasury will be use to sweep floor depending on what project the holders will be voted on.';
+const welcome_p = 'Mice Friends NFT is a collectionn of 5,000 randomly generated Unique images. This project is created to lift everyones situation, Upon sold out a percentage will be donated to a selected Foundation. Treasury will be use to sweep floor via vote.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
