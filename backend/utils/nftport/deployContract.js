@@ -23,6 +23,7 @@ let {
   BASE_URI,
   PREREVEAL_TOKEN_URI,
   PRESALE_MINT_START_DATE,
+  PRESALE_MINT_PRICE,
   PRESALE_WHITELISTED_ADDRESSES
 } = require(`${basePath}/src/config.js`);
 
