@@ -35,7 +35,7 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  max-width: 960px;
+  max-width: 1500px;
   margin: 0 auto;
   padding: 1rem 2rem;
   justify-content: center;
@@ -97,9 +97,10 @@ header .container {
   font-weight: bold;
 }
 .landing-container{
-  
+  max-width: 1500px;
 }
 .banner-img{
+  width: 100%;
   opacity: .5;
   padding:25px 25px 25px 25px;
 }
