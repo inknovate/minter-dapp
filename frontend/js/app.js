@@ -53,13 +53,11 @@ const updateConnectStatus = async () => {
   const spinner = document.getElementById("spinner");
   if (!MetaMaskOnboarding.isMetaMaskInstalled()) {
     onboardButton.innerText = "Install MetaMask!";
-    
     onboardButton.onclick = () => {
       onboardButton.innerText = "Connecting...";
       onboardButton.disabled = true;
       onboarding.startOnboarding();
       // HIDE SPINNER
-      spinner.classList.add('hidden');
       notConnected.classList.remove('hidden');
     };
   } else if (accounts && accounts.length > 0) {
