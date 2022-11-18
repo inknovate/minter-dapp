@@ -62,6 +62,10 @@ header .container {
 }
 
 /* NOT CONNECTED */
+.first-content{
+  background-image: url("images/slider/bg-imageg.png");
+  max-width: 1500px;
+}
 .not-connected {
   align-items: center;
   height: 100%;
