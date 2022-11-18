@@ -63,9 +63,9 @@ header .container {
 
 /* NOT CONNECTED */
 .first-content{
-  background-image: url("images/slider/bg-image.png");
-  max-width: 1500px;
-  max-height: 677px;
+  background-image: url("../images/slider/bg-image.png");
+  width: 1500px;  
+  height: 677px;
 }
 .first-content-text{
   padding: 25px 25px 25px 25px;
