@@ -67,8 +67,11 @@ header .container {
   width: 1500px;  
   height: 677px;
 }
+.first-content-mascot{
+  padding-top: 61px;
+}
 .first-content-text{
-  padding: 25px 25px 25px 25px;
+  padding: 75px 25px 25px 55px;
 }
 .not-connected {
   align-items: center;
