@@ -73,6 +73,9 @@ header .container {
 .first-content-text{
   padding: 75px 25px 25px 55px;
 }
+.third-content{
+  background: #101023;
+}
 .not-connected {
   align-items: center;
   height: 100%;
