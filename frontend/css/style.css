@@ -73,6 +73,9 @@ header .container {
 .first-content-text{
   padding: 75px 25px 25px 55px;
 }
+.second-content{
+  padding-bottom: 25px;
+}
 .third-content{
   background: #101023;
 }
