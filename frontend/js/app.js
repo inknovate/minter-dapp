@@ -51,6 +51,7 @@ const updateConnectStatus = async () => {
   const onboardButton = document.getElementById("connectWallet");
   const notConnected = document.querySelector('.not-connected');
   const spinner = document.getElementById("spinner");
+  notConnected.classList.add('show-not-connected');
   if (!MetaMaskOnboarding.isMetaMaskInstalled()) {
     onboardButton.innerText = "Install MetaMask!";
     onboardButton.onclick = () => {
