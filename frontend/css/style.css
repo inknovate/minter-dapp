@@ -75,6 +75,7 @@ header .container {
 }
 form{
   display:table;
+  padding: 0px 0px 15px 0px;
 }
 form input{
   border:0;
